@@ -45,4 +45,5 @@ Strengthened ability to craft actionable business strategies based on data.
 If you're interested in this project or want to discuss data analytics, feel free to reach out:
 
 LinkedIn: https://www.linkedin.com/in/sshankt/
+
 personal portfolio : https://sshankt.github.io/
